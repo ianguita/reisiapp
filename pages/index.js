@@ -30,7 +30,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="bg-mainBG min-h-screen bg-cover px-5 py-24">
+      <main className="bg-mainBG min-h-screen bg-cover px-5 py-24 md:hidden lg:hidden xl:hidden">
         <div
           className={`${glassAntiqua.variable} font-glassAntiqua text-slate-700 text-lg flex mx-auto justify-between w-full px-10`}
         >
@@ -135,6 +135,10 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <div className="bg-slate-100 sm:hidden md:block lg:block xl:block min-h-screen w-full pt-52">
+      <Image alt="" src="/images/rotate-smartphone.png" width="200" height="200" className="mx-auto"/>
+        <p className={`${limelight.variable} font-limelight text-slate-900 text-2xl text-center mt-12`}>Palun kasutage või<br />pöörake oma telefoni</p>
+      </div>
     </>
   );
 }
