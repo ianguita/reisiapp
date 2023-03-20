@@ -60,7 +60,7 @@ export default function Home() {
         <div className="flex justify-end">
           <div className="w-2/3 flex flex-wrap mt-8 pl-2">
             <p className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}>Sagrada Familia</p>
-            <p className={`${jost.variable} font-jost text-xs`}>Sagrada Família on lõpetamata kirik Hispaanias Kataloonias Barcelonas Eixample'i linnaosas. See on suurim lõpetamata katoliku kirik maailmas. Kujundanud katalaani arhitekt Antoni Gaudí</p>
+            <p className={`${jost.variable} font-jost text-xs`}>Sagrada Família on lõpetamata kirik Hispaanias Kataloonias Barcelonas Eixample&apos;i linnaosas. See on suurim lõpetamata katoliku kirik maailmas. Kujundanud katalaani arhitekt Antoni Gaudí</p>
             <Image alt="" src="/images/sagradaFamilia.jpg" width="500" height="500" className="mt-2 border-4 shadow-lg" />
           </div>
         </div>
@@ -95,7 +95,7 @@ export default function Home() {
         <div className="flex justify-start">
           <div className="w-2/3 flex flex-wrap mt-12 pl-2">
             <p className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}>Barri Gòtic</p>
-            <p className={`${jost.variable} font-jost text-xs`}>Gooti kvartal on linna vanim tuum ja selle ajalooline keskus, mis vastab suures osas Vana-Rooma linnale Barcinole. Varem oli see tuntud kui "katedraali piirkond".</p>
+            <p className={`${jost.variable} font-jost text-xs`}>Gooti kvartal on linna vanim tuum ja selle ajalooline keskus, mis vastab suures osas Vana-Rooma linnale Barcinole. Varem oli see tuntud kui &quot;katedraali piirkond&quot;.</p>
             <Image alt="" src="/images/gotico.jpeg" width="500" height="500" className="mt-2 border-4 shadow-lg" />
           </div>
         </div>
@@ -108,7 +108,7 @@ export default function Home() {
         </div>
         <div className="flex justify-start">
           <div className="w-2/3 flex flex-wrap mt-8 pl-2">
-            <p className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}>Plaça d'Espanya</p>
+            <p className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}>Plaça d&apos;Espanya</p>
             <p className={`${jost.variable} font-jost text-xs`}>Barcelona Plaza de España on tuntud oma muljetavaldava purskkaevu ja kuulsa hispaania arhitektuuri poolest. See on oluline turismisihtkoht, kus korraldatakse sageli suuri sündmusi ja festivalid. Plaza de España on ka oluline transpordisõlm, kust saab metrooga hõlpsasti juurdepääsu teistele linnaosadele.</p>
             <Image alt="" src="/images/espana.jpg" width="500" height="500" className="mt-2 border-4 shadow-lg" />
           </div>
