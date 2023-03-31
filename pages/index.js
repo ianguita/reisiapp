@@ -56,7 +56,7 @@ export default function Home() {
           >
             Hei Reenika,
             <br />
-            lähme risile!
+            lähme reisile!
           </p>
           <p
             className={`${glassAntiqua.variable} font-glassAntiqua text-red-600 text-center mt-3 text-xl`}
