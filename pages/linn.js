@@ -30,7 +30,7 @@ export default function Linn() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="bg-secondBG min-h-screen bg-cover px-5 pb-24">
+      <main className="bg-secondBG min-h-screen bg-cover px-5 pb-8">
         <Link href="/">
           <div className="py-12" />
         </Link>
@@ -237,6 +237,26 @@ export default function Linn() {
           allowFullScreen
           className="w-full h-48 border-4 border-amber-50 shadow-lg mt-5"
         ></iframe>
+        <div className="flex column-1 flex-col gap-3 w-full mt-8">
+          <Link
+            href="/pildid"
+            className={`${glassAntiqua.variable} font-glassAntiqua bg-red-600 py-2 w-full text-center text-xl text-amber-50`}
+          >
+            <p>Pildid ❯</p>
+          </Link>
+          <Link
+            href="/videod"
+            className={`${glassAntiqua.variable} font-glassAntiqua bg-red-600 py-2 w-full text-center text-xl text-amber-50`}
+          >
+            <p>Videod ❯</p>
+          </Link>
+          <Link
+            href="/kohad"
+            className={`${glassAntiqua.variable} font-glassAntiqua bg-red-600 py-2 w-full text-center text-xl text-amber-50`}
+          >
+            <p>Kohad ❯</p>
+          </Link>
+        </div>
       </main>
       <div className="bg-slate-100 hidden md:block lg:block xl:block min-h-screen w-full pt-52 landscape:hidden">
         <Image
