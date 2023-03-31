@@ -44,8 +44,8 @@ export default function Linn() {
             <p>Pildid</p>
           </Link>
           <Link href="/videod">
-        <p>Videod</p>
-</Link>
+            <p>Videod</p>
+          </Link>
           <Link href="/kohad">
             <p>Kohad</p>
           </Link>
@@ -236,6 +236,10 @@ export default function Linn() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen
           className="w-full h-48 border-4 border-amber-50 shadow-lg mt-5"
+        ></iframe>
+        <iframe
+          src="https://www.google.com/maps/d/embed?mid=142DHsXIj0vI4dFAEVOvzbNqi-CqIFbw&ehbc=2E312F"
+          className="w-full h-screen border-4 border-amber-50 shadow-lg mt-5"
         ></iframe>
         <div className="flex column-1 flex-col gap-3 w-full mt-8">
           <Link
