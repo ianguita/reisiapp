@@ -480,7 +480,7 @@ export default function Pildid() {
           className={`${limelight.variable} font-limelight text-mainBlack mt-8 text-2xl`}
           id="placaEspanya"
         >
-          Plaça d'Espanya
+          Plaça d&apos;Espanya
         </p>
         <Image
           alt=""

@@ -54,7 +54,7 @@ export default function placaEspanya() {
           <p
             className={`${limelight.variable} font-limelight text-mainBlack text-center mt-8 text-4xl`}
           >
-            Plaça d'Espanya
+            Plaça d&apos;Espanya
           </p>
           <p
             className={`${glassAntiqua.variable} font-glassAntiqua text-red-600 text-center mt-3 text-xl`}
@@ -88,8 +88,8 @@ export default function placaEspanya() {
           className={`${jost.variable} font-jost mt-5 bg-amber-50 shadow-lg p-5`}
         >
           Plaza España on tuntud oma muljetavaldava purskkaevu, mälestusmärgi ja
-          kahe uhke torni poolest, mida kutsutakse ka "Kataloonia Vennaskonna
-          tornideks". Väljaku kõrval asuvad Las Arenase kaubanduskeskus ja
+          kahe uhke torni poolest, mida kutsutakse ka &quot;Kataloonia Vennaskonna
+          tornideks&quot;. Väljaku kõrval asuvad Las Arenase kaubanduskeskus ja
           Barceló hotell, mis pakuvad külastajatele palju meelelahutust ja
           ostuvõimalusi.
         </p>

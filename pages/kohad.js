@@ -264,7 +264,7 @@ export default function Kohad() {
             <p
               className={`${limelight.variable} font-limelight text-mainBlack mt-5 text-xl mb-2`}
             >
-              Plaça d'Espanya
+              Plaça d&apos;Espanya
             </p>
             <p className={`${jost.variable} font-jost text-sm`}>
               Barcelona Plaza de España on tuntud oma muljetavaldava purskkaevu

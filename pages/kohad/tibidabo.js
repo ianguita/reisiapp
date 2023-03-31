@@ -90,7 +90,7 @@ export default function Tibidabo() {
           className={`${jost.variable} font-jost mt-5 bg-amber-50 shadow-lg p-5`}
         >
           Tibidabo nime juured ulatuvad tagasi ladina keelde, mis tähendab
-          "Jumala majapidamist". Legendi kohaselt pidi Jeesus Kristus kutsunud
+          &quot;Jumala majapidamist&quot;. Legendi kohaselt pidi Jeesus Kristus kutsunud
           kurja saatana Tibidabo mäele ja käsutanud teda lahkuma. Pärast seda
           olevat ingel teinud mäele tempel.
         </p>
