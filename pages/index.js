@@ -66,7 +66,7 @@ export default function Home() {
         </div>
         <Link href="/kohad/tibidabo">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-28 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-20 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -90,7 +90,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/santPau">
           <div className="flex justify-start">
-            <div className="w-2/3 flex flex-wrap mt-8 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-2 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -112,9 +112,9 @@ export default function Home() {
         </Link>
         <Link href="/kohad/sagradaFamilia">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-3 pl-2">
               <p
-                className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
+                className={`${limelight.variable} font-limelight text-green-900 text-xl text-left`}
               >
                 Sagrada Familia
               </p>
@@ -136,7 +136,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/boqueria">
           <div className="flex justify-start">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-2 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -159,7 +159,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/rambla">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-16 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -183,7 +183,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/catedral">
           <div className="flex justify-start">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-4 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -207,7 +207,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/arcTriomf">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-4 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -230,7 +230,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/barriGotic">
           <div className="flex justify-start">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-4 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -253,7 +253,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/casaBatllo">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-8 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -277,9 +277,9 @@ export default function Home() {
         </Link>
         <Link href="/kohad/placaEspanya">
           <div className="flex justify-start">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-4 pl-2">
               <p
-                className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
+                className={`${limelight.variable} font-limelight text-green-900 text-xl text-left`}
               >
                 Plaça d&apos;Espanya
               </p>
@@ -302,7 +302,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/montserrat">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-4 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -327,7 +327,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/pedraforca">
           <div className="flex justify-start">
-            <div className="w-2/3 flex flex-wrap mt-12 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-4 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
@@ -353,7 +353,7 @@ export default function Home() {
         </Link>
         <Link href="/kohad/sitges">
           <div className="flex justify-end">
-            <div className="w-2/3 flex flex-wrap mt-8 pl-2">
+            <div className="w-2/3 flex flex-wrap mt-3 pl-2">
               <p
                 className={`${limelight.variable} font-limelight text-green-900 text-2xl text-left`}
               >
