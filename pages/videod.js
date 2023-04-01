@@ -30,7 +30,7 @@ export default function Pildid() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="bg-secondBG min-h-screen bg-cover px-5 pb-24 md:hidden lg:hidden xl:hidden landscape:hidden">
+      <main className="bg-secondBG min-h-screen bg-cover px-5 pb-24">
         <Link href="/">
           <div className="py-12" />
         </Link>
@@ -154,7 +154,7 @@ export default function Pildid() {
           className="w-full h-48 border-4 border-amber-50 shadow-lg mt-5"
         ></iframe>
       </main>
-      <div className="bg-slate-100 hidden md:block lg:block xl:block min-h-screen w-full pt-52">
+      <div className="bg-slate-100 hidden md:block lg:block xl:block min-h-screen w-full pt-52 landscape:hidden">
         <Image
           alt=""
           src="/images/rotate-smartphone.png"
